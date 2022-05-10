@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"daysbetween"
+	"github.com/KevinStrong/daysbetween"
 )
 
 func main() {
