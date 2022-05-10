@@ -1,4 +1,4 @@
-module daysbetween
+module github.com/KevinStrong/daysbetween
 
 go 1.18
 

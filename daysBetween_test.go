@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"daysbetween"
+	"github.com/KevinStrong/daysbetween"
 
 	"github.com/matryer/is"
 )
